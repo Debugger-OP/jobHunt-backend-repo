@@ -1,0 +1,21 @@
+# Environment variables file
+.env
+
+# Node modules folder
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Optional: Ignore local database files (if you're using SQLite or other local DB)
+*.db
+*.sqlite
+
+# Optional: Ignore vscode settings folder
+.vscode/
+
+# Optional: Ignore any other temporary or build files
+*.log
+*.tmp
